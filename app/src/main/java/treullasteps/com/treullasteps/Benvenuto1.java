@@ -20,6 +20,8 @@ import java.lang.Runnable;
 
 import android.os.Handler;
 
+// modifica di prova (commit e basta)
+
 public class Benvenuto1 extends Activity implements Runnable {
 
     /*static DataBaseHelper myDb;
